@@ -4,4 +4,4 @@
 
 - [Revenge RAT](https://github.com/AviorMostovski/challenges/blob/main/LetsDefend/LetsDefend%20-%20%20Revenge%20RAT.pdf)
 
-- [Golang Ransomware](https://github.com/AviorMostovski/challenges/blob/main/LetsDefend/LetsDefend%20-%20%20Revenge%20RAT.pdf)
+- [Golang Ransomware](https://github.com/AviorMostovski/challenges/blob/main/LetsDefend/Golang%20Ransomware.pdf)
