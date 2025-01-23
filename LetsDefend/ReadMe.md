@@ -3,3 +3,5 @@
 - [PDFURI](https://github.com/AviorMostovski/challenges/blob/main/LetsDefend/LetsDefend%20-%20PDFURI.pdf)
 
 - [Revenge RAT](https://github.com/AviorMostovski/challenges/blob/main/LetsDefend/LetsDefend%20-%20%20Revenge%20RAT.pdf)
+
+- [Golang Ransomware](https://github.com/AviorMostovski/challenges/blob/main/LetsDefend/LetsDefend%20-%20%20Revenge%20RAT.pdf)
