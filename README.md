@@ -5,4 +5,4 @@ It includes comprehensive solutions, tips, and methodologies to solve different 
 <br/>
 Feel free to explore the content, contribute, and use the resources for your learning journey. <br/>
 <br/>
-![image](https://github.com/user-attachments/assets/bf5e1857-c878-422d-8051-b5c4bd709fe9)
+![Screenshot 2025-01-24 005025](https://github.com/user-attachments/assets/d018a037-fa6a-4dd8-8032-ffdffd6254c5)
