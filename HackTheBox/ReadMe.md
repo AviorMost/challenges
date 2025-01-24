@@ -2,3 +2,5 @@
 
 
 - [Pikapcha](https://github.com/AviorMostovski/challenges/blob/main/HackTheBox/Pikapcha.pdf)
+
+- [Bumblebee](https://github.com/AviorMostovski/challenges/blob/main/HackTheBox/Bumblebee.pdf)
